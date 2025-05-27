@@ -1,5 +1,4 @@
-# Unciv-mod-example
-
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+# RekMOD
+Mod based on recreating Lekmod, a multiplayer mod for civ 5 
+You can find many of the changes or attempted changes in this mod here:
+https://docs.google.com/document/d/18tsjg2C1wKA7I41GktDRr6R83eUrhn4FHi9EUEtpKvI/edit?usp=sharing
