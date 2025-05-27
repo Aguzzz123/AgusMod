@@ -21,7 +21,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
 		"uniqueName": "Lebensraum",
-		"uniques": ["[+20]% growth [in annexed cities]","[-20]% Unhappiness from [Population] [in annexed cities]","[+20]% [Culture] [in annexed cities]"],
+		"uniques": ["[+10]% growth [in annexed cities]","[-10]% Unhappiness from [Population] [in annexed cities]","[+10]% [Culture] [in annexed cities]"],
 		"cities": ["Berlín","Hamburgo","Múnich","Colonia","Fráncfort","Stuttgart","Baden-Wurtemberg","Düsseldorf","Leipzig","Dortmund","Essen","Renania","Bremen","Dresde","Sajonia","Hanóver","Núremberg"]
 	},
 
@@ -58,7 +58,7 @@
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Conquistadores Comerciales",
-		"uniques": ["culture from Great Merchant trade missions", ""],
+		"uniques": ["[+50 Culture] from Great Merchant trade missions", "[+2 Gold] from each Trade Route","[+10]% [Production] in all cities connected to capital","Starts with [Navigation]"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","Santiago del Estero","Tucuman", "Mendoza","Santa Fe","Salta","La Plata","Jujuy","La Rioja","Corrientes"]
 	},
 	{    
