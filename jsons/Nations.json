@@ -5,7 +5,63 @@
         "outerColor": [255,255,255]
     },
     //nations
-    {
+    
+	{
+		"name": "3er Reich",
+		"leaderName": "Adolf Hitler",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " He was not a bad guy, he was only misunderstood.",
+		"startIntroPart2": "Oh, shit. Here we go again.",
+		"declaringWa": "Nain nain nain!",
+		"attacked": "Nain nain nain!.",
+		"defeated": "Nain nairn nain!.",
+		"introduction": "Nain nain nain!",
+		"tradeRequest": "Nain nain nain!",
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Lebensraum",
+		"uniques": ["[+20]% growth [in annexed cities]","[-20]% Unhappiness from [Population] [in annexed cities]","[+20]% [Culture] [in annexed cities]"],
+		"cities": ["Berlín","Hamburgo","Múnich","Colonia","Fráncfort","Stuttgart","Baden-Wurtemberg","Düsseldorf","Leipzig","Dortmund","Essen","Renania","Bremen","Dresde","Sajonia","Hanóver","Núremberg"]
+	},
+
+	{
+		"name": "Argentina",
+		"leaderName": "San Martin",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text",
+		"declaringWar": ".",
+		"attacked": "",
+		"defeated": "",
+		"introduction": ".",
+		"tradeRequest": ".",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Libertador de America",
+		"uniques": ["[-33]% City-State Influence degradation <when at war>", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "Earn [150]% of killed [Enemy] unit's [Strength] as [Culture] <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Buenos Aires","Cordoba","Rosario","Santiago del Estero","Tucuman", "Mendoza","Santa Fe","Salta","La Plata","Jujuy","La Rioja","Corrientes"]
+	},
+	{
+		"name": "Fenicios",
+		"leaderName": "Xxx",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text",
+		"declaringWar": ".",
+		"attacked": "",
+		"defeated": "",
+		"introduction": ".",
+		"tradeRequest": ".",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Conquistadores Comerciales",
+		"uniques": ["culture from Great Merchant trade missions", ""],
+		"cities": ["Buenos Aires","Cordoba","Rosario","Santiago del Estero","Tucuman", "Mendoza","Santa Fe","Salta","La Plata","Jujuy","La Rioja","Corrientes"]
+	},
+	{    
         "name": "Akkad",
         "leaderName": "Sargon",
         "adjective": ["Akkadian"],
