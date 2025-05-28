@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "Fenicios",
-		"leaderName": "Xxx",
+		"leaderName": "Hiram I",
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Sample text.",
@@ -58,13 +58,33 @@
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Conquistadores Comerciales",
-		"uniques": ["[+50 Culture] from Great Merchant trade missions", "[+2 Gold] from each Trade Route","[+10]% [Production] in all cities connected to capital","Starts with [Sailing]"],
-		"cities": ["Buenos Aires","Cordoba","Rosario","Santiago del Estero","Tucuman", "Mendoza","Santa Fe","Salta","La Plata","Jujuy","La Rioja","Corrientes"]
+		"uniques": [ "[Great Merchant] Can Spread Religion <for [1] movement> <[1] times>","[Great Merchant] Removes other religions when spreading religion","[+50 Culture] from Great Merchant trade missions", "[+2 Gold] from each Trade Route","[+10]% [Production] in all cities connected to capital","Starts with [Sailing]"],
+		"cities": ["Tiro","Sidon","Cartago","Arados", "Trípoli", "Simyra", "Sarepta" , "Gabala", "Akko", "Berito","Ra's Samra"]
 	},
+
+	{
+		"name": "Sacro Imperio Romano-Germanico",
+		"leaderName": "Xxx",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text",
+		"declaringWar": ".",
+		"attacked": "",
+		"defeated": "",
+		"introduction": ".",
+		"tradeRequest": ".",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Circulo Imperial",
+		"uniques": [ "[-33]% unhappiness from the number of cities"],
+		"cities": ["Praga","Augsburgo","Bremen","Colonia","Fráncfort","Hamburgo","Lübeck","Núremberg"]
+	},
+	
 	{    
         "name": "Akkad",
         "leaderName": "Sargon",
-        "adjective": ["Akkadian"],
+        "adjective": ["Akkadian
         "startBias": ["Avoid [Coast]"],
         "preferredVictoryType": "Domination",
         "startIntroPart1": "Mighty Sargon the Great of Akkad, we prostrate ourselves before you! You are the Emperor of the Akkadians, the greatest people to ever arise along the Euphrates and Tigris rivers. From its founding around 2300 BCE, Akkad spread its dominion through a force like none of which the ancient world had ever seen, which marked, among other things, history's first standing army. Ranging from the Tarsus Mountsins to the Persian Gulf, the mighty Akkadian empire was a force to be reckoned with. Yet, you were much better than a mere warmonger, because your rule oversaw the flourishing of trade cross all of the Middle East, extending all the way to the cities of Greece. Although the curses of war and famine tore your kingdom apart after centuries of prosperity, Mesopotamia was once again transformed into a land of culture and color as the ever-growing wealth of Akkad heralded a time of peace in the forever restless realm.",
