@@ -627,125 +627,35 @@
             "[+50]% XP gained from combat"
         ]
     },
-    {
-        "name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
-        "uniques": [
-            "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
-        ]
-    },
+    
     {
         "name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
         "uniques": [
             "All healing effects doubled"
         ]
     },
-    {
-        "name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
-        "uniques": [
-            "Withdraws before melee combat <with [80]% chance>"
-        ]
-    },
+   
     {
         "name": "Ignore terrain cost",
         "uniques": [
             "Ignores terrain cost"
         ]
     },
-    {
-        "name": "Sea Nomads", // Brunei
-        "uniques": [
-            "[-33]% maintenance costs",
-            "Can build [Water] improvements on tiles"
-        ]
-    },
-    {
-        "name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
-        "uniques": [
-            "No movement cost to pillage",
-            "[+20]% Strength <when fighting in [Foreign Land] tiles>"
-        ]
-    },
-    {
-        "name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
-        "uniques": [
-            "[+30]% Strength decreasing with distance from the capital"
-        ]
-    },
-    {
-        "name": "[Mohawk Warrior] ability",
-        "uniques": [
-            "[+33]% Strength <when fighting in [Forest] tiles>",
-            "[+33]% Strength <when fighting in [Jungle] tiles>"
-        ]
-    },
-    {
-        "name": "[Jaguar] ability",
-        "uniques": [
-            "[+33]% Strength <when fighting in [Forest] tiles>",
-            "[+33]% Strength <when fighting in [Jungle] tiles>",
-            "Heals [25] damage if it kills a unit"
-        ]
-    },
-    {
-        "name": "[Persian Immortal] ability",
-        "uniques": [
-            "[+10] HP when healing"
-        ]
-    },
-    {
-        "name": "[Conquistador] ability",
-        "uniques": [
-            "[+100]% Strength <when defending> <when [Embarked]>"
-        ]
-    },
-    {
-        "name": "[Janissary] ability",
-        "uniques": [
-            "Heals [50] damage if it kills a unit",
-            "[+25]% Strength <when attacking>"
-        ]
-    },
+   
     {
         "name": "No movement cost to pillage",
         "uniques": [
             "No movement cost to pillage"
         ]
     },
-    {
-        "name": "[Cossack] ability",
-        "uniques": [
-            "[+25]% Strength <vs [Wounded] units>"
-        ]
-    },
+    
     {
         "name": "Enhanced Flank Attack",
         "uniques": [
             "[+50]% to Flank Attack bonuses"
         ]
     },
-    {
-        "name": "[Norwegian Ski Infantry] ability",
-        "uniques": [
-            "[+25]% Strength <when fighting in [Snow] tiles>",
-            "[+25]% Strength <when fighting in [Tundra] tiles>",
-            "[+25]% Strength <when fighting in [Hill] tiles>",
-            "Double movement in [Snow]",
-            "Double movement in [Tundra]",
-            "Double movement in [Hill]"
-        ]
-    },
-    {
-        "name": "[Chu-Ko-Nu] ability",
-        "uniques": [
-            "[1] additional attacks per turn"
-        ]
-    },
-    {
-        "name": "[M-84] ability",
-        "uniques": [
-            "Ignores Zone of Control"
-        ]
-    },
+    
     {
         "name": "Leadership",
         "uniques": [
@@ -753,24 +663,7 @@
             "Great Person - [War]"
         ]
     },
-    {
-        "name": "Dojo", // Japan
-        "uniques": [
-            "[+10]% Strength"
-        ]
-    },
-    {
-        "name": "Phoenician Heritage", // Carthage
-        "uniques": [
-            "Can pass through impassable tiles"
-        ]
-    },
-    {
-        "name": "War Canoes", // Songhai
-        "uniques": [
-            "[+100]% Strength <when defending> <when [Embarked]>"
-        ]
-    },
+    
     {
         "name": "Homeland Guardian",
         "uniques": [
@@ -796,12 +689,7 @@
             "[+50]% Strength <when attacking>"
         ]
     },
-    {
-        "name": "Sauna",
-        "uniques": [
-            "[+10] HP when healing <in [Friendly] tiles>"
-        ]
-    },
+    
     {
         "name": "Altitude Training",
         "uniques": [
@@ -818,19 +706,7 @@
             "[+25]% Strength <vs [Gunpowder] units>"
         ]
     },
-    {
-        "name": "Dharma",
-        "uniques": [
-            "[-10]% Strength <when attacking>",
-            "[+10]% Strength <when defending>"
-        ]
-    },
-    {
-        "name": "Chain of the Earth",
-        "uniques": [
-            "Ignores Zone of Control"
-        ]
-    },
+    
     {
         "name": "Mountaineer",
         "uniques": [
@@ -838,12 +714,7 @@
             "[+1] Movement <with [1] to [6] neighboring [Mountain] tiles>"
         ]
     },
-    {
-        "name": "Missionary Zeal",
-        "uniques": [
-            "Can Spread Religion <[1] additional time(s)>"
-        ]
-    },
+    
     {
         "name": "Devout",
         "uniques": [
