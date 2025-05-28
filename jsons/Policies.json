@@ -343,7 +343,7 @@
     {
         "name": "Fenicios",
         "era": "Ancient era",
-        
+        "uniqueTo": "Fenicios",
         "uniques": [
             "[Great Merchant] is earned [+25]% faster",
             
