@@ -11,30 +11,22 @@
         "Enables Open Borders agreements",
         "Enables Defensive Pacts",
 
-        // TODO: Implement the uniques below
-        // "[+20]% [Culture] [in all cities] <during a golden age>",
-        // "[+20]% [Production] [in all cities] <during a golden age>",
+        
+        "[+33]% [Culture] [in all cities] <during a golden age>",
+        "[+25]% [Production] [in all cities] <during a golden age>",
+        "[+33]% [Science] [in all cities] <during a golden age>",
 
-        // "[+10]% growth [in all cities] <during We Love The King Day>",
+        "[+20]% growth [in all cities] <during We Love The King Day>",
 
-        // "Nullifies All Yield <while is in resistance>",
+        "Nullifies All Yield <while is in resistance>",
 
-        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
-        // "[-25]% [Culture] [in pupetted cities]"
+        "[-25]% [Science] [in pupetted cities]", -- Imo cityFilters should ideally become conditionals anyway
+        "[-25]% [Culture] [in pupetted cities]",
 
-        // "[+20]% [Production] [in cities connected via railroad]"
-
-        // something something unit supply
-
-        // Temporary "Needs actual support" uniques
-        "[+1 Faith] from every [Quarry] <with [1] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [2] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [3] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [4] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [5] to [6] neighboring [Rock-hewn church] tiles>",
-        "[+1 Faith] from every [Quarry] <with [6] to [6] neighboring [Rock-hewn church] tiles>",
-
+        "[+10]% [Production] [in cities connected via railroad]",
+        "[+10]% [Production] [in cities connected via railroad]",
         // Difficulty settings missing
+        
         "[+60]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units>",
         "[+10]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units> <on [Chieftain] difficulty>", // These are additive, not multiplicative
         "[+15]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units> <on [Settler] difficulty>",
