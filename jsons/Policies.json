@@ -343,6 +343,7 @@
     {
         "name": "Fenicios",
         "era": "Ancient era",
+        
         "uniques": [
             "[Great Merchant] is earned [+25]% faster",
             
@@ -378,9 +379,9 @@
                 "column": 1
             },
             {
-                "name": "Tradition Complete",
+                "name": "ARBOL DE CULTURA FENICIA COMPLETADO",
                 "uniques": [
-                    "",
+                    "[+4 Happiness]",
                     
                 ]
             }
